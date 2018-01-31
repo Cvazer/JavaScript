@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demo.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../zti-html-console-scanner/demo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="85">
+              <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -44,12 +44,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zti-html-console-scanner.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../zti-html-console-scanner/zti-html-console-scanner.js">
+      <file leaf-file-name="zti-html-console-scanner-v1.1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../zti-html-console-scanner/zti-html-console-scanner-v1.1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="57" column="29" lean-forward="false" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-              <folding />
+            <state relative-caret-position="-47">
+              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+              <folding>
+                <element signature="e#1627#1685#0" expanded="false" />
+                <element signature="e#4558#4604#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +68,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace>this</replace>
+    </replaceStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -77,6 +85,8 @@
         <option value="$PROJECT_DIR$/demo.html" />
         <option value="$PROJECT_DIR$/zti-html-console-scanner.js" />
         <option value="$PROJECT_DIR$/demo.js" />
+        <option value="$PROJECT_DIR$/../zti-html-console-scanner/zti-html-console-scanner.js" />
+        <option value="$PROJECT_DIR$/../zti-html-console-scanner/demo.js" />
       </list>
     </option>
   </component>
@@ -181,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517247819880</updated>
-      <workItem from="1517247822790" duration="46424000" />
+      <workItem from="1517247822790" duration="48172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46424000" />
+    <option name="totallyTimeSpent" value="48172000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,14 +256,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../zti-html-console-scanner/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../zti-html-console-scanner/demo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1853">
@@ -262,19 +264,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../zti-html-console-scanner/zti-html-console-scanner.js">
+    <entry file="file://$PROJECT_DIR$/../zti-html-console-scanner/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="57" column="29" lean-forward="false" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+        <state relative-caret-position="119">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../zti-html-console-scanner/demo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="85">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../zti-html-console-scanner/zti-html-console-scanner-v1.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="e#1627#1685#0" expanded="false" />
+            <element signature="e#4558#4604#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
